@@ -1,0 +1,30 @@
+#outer
+{
+background-color: blue;
+height: 570px;
+width: 1300px;
+}
+
+#home
+{
+height:580px;
+width: 1400px;
+border: 1px solid;
+}
+
+.col-sm-8
+{
+font-size: 50px;
+}
+
+.col-sm-4 img
+{
+height: 350px;
+width: 350px;
+border-radius: 250px;
+}
+
+.nav-link
+{
+color: black
+}
